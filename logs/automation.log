@@ -1,0 +1,32 @@
+20:48:33.945 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+20:48:34.039 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+20:48:34.133 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+20:48:34.240 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+20:48:34.339 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+20:48:34.496 [main] INFO  TestBase.BaseClass - Closed browser
+22:30:24.246 [main] INFO  TestBase.BaseClass - --- Running on local system ---
+22:30:38.471 [main] INFO  TestBase.BaseClass - Started chrome browser
+22:30:43.173 [main] INFO  TestBase.BaseClass - website is loaded
+22:30:44.233 [main] INFO  TestBase.BaseClass - travel insurance menu is clicked successfully
+22:31:03.690 [main] INFO  TestBase.BaseClass - personal details filled successfully
+22:31:21.374 [main] INFO  TestBase.BaseClass - filters applied on student plans
+22:31:21.859 [main] INFO  TestBase.BaseClass - top 3 travel plans displayed on console
+22:31:21.943 [main] INFO  TestBase.BaseClass - top 3 travel plans displayed on console
+22:31:22.059 [main] INFO  TestBase.BaseClass - top 3 travel plans displayed on console
+22:31:22.918 [main] WARN  org.apache.poi.POIDocument - DocumentSummaryInformation property set came back as null
+22:31:22.919 [main] WARN  org.apache.poi.POIDocument - SummaryInformation property set came back as null
+22:31:25.367 [main] INFO  TestBase.BaseClass - clicked on Car insurance menu and fetched car details
+22:31:35.910 [main] INFO  TestBase.BaseClass - filled personal details with wrong email and printed the wrong email error msg
+22:31:39.820 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:39.940 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:40.063 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:40.175 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:40.300 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:40.424 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:40.556 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:40.682 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:40.832 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:40.960 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:41.058 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:41.165 [main] INFO  TestBase.BaseClass - mouse hover on health insurance menu is done properly and printed the list of health insurances
+22:31:41.347 [main] INFO  TestBase.BaseClass - Closed browser

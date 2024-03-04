@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-01T12:49:25 IST" name="Suite" finished-at="2024-03-01T12:50:51 IST" duration-ms="85325">
+    <groups>
+    </groups>
+    <test started-at="2024-03-01T12:49:25 IST" name="Test" finished-at="2024-03-01T12:50:51 IST" duration-ms="85325">
+      <class name="TestCases.TravelDetailsPageTest">
+        <test-method signature="selectCountry()[pri:1, instance:TestCases.TravelDetailsPageTest@302552ec]" started-at="2024-03-01T12:49:47 IST" name="selectCountry" finished-at="2024-03-01T12:50:07 IST" duration-ms="19835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCountry -->
+        <test-method signature="studentPlans()[pri:2, instance:TestCases.TravelDetailsPageTest@302552ec]" started-at="2024-03-01T12:50:07 IST" name="studentPlans" finished-at="2024-03-01T12:50:26 IST" duration-ms="18889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studentPlans -->
+        <test-method signature="printTop3Plans()[pri:3, instance:TestCases.TravelDetailsPageTest@302552ec]" started-at="2024-03-01T12:50:26 IST" name="printTop3Plans" finished-at="2024-03-01T12:50:28 IST" duration-ms="1606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printTop3Plans -->
+      </class> <!-- TestCases.TravelDetailsPageTest -->
+      <class name="TestCases.HomePageTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.HomePageTest@7c6908d7]" started-at="2024-03-01T12:49:26 IST" name="setup" finished-at="2024-03-01T12:49:39 IST" duration-ms="13231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Win11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loadWebsite()[pri:1, instance:TestCases.HomePageTest@7c6908d7]" started-at="2024-03-01T12:49:39 IST" name="loadWebsite" finished-at="2024-03-01T12:49:45 IST" duration-ms="5990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadWebsite -->
+        <test-method signature="clickTravel()[pri:2, instance:TestCases.HomePageTest@7c6908d7]" started-at="2024-03-01T12:49:46 IST" name="clickTravel" finished-at="2024-03-01T12:49:47 IST" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTravel -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.HomePageTest@7c6908d7]" started-at="2024-03-01T12:50:49 IST" name="teardown" finished-at="2024-03-01T12:50:51 IST" duration-ms="1436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.HomePageTest -->
+      <class name="TestCases.VHealthInsurancePageTest">
+        <test-method signature="PrintHeathInsuranceMenu()[pri:1, instance:TestCases.VHealthInsurancePageTest@40005471]" started-at="2024-03-01T12:50:42 IST" name="PrintHeathInsuranceMenu" finished-at="2024-03-01T12:50:49 IST" duration-ms="6429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintHeathInsuranceMenu -->
+      </class> <!-- TestCases.VHealthInsurancePageTest -->
+      <class name="TestCases.UCarDetailsPageTest">
+        <test-method signature="clickCar()[pri:1, instance:TestCases.UCarDetailsPageTest@3d285d7e]" started-at="2024-03-01T12:50:28 IST" name="clickCar" finished-at="2024-03-01T12:50:31 IST" duration-ms="2975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCar -->
+        <test-method signature="clickBuyingCar()[pri:2, instance:TestCases.UCarDetailsPageTest@3d285d7e]" started-at="2024-03-01T12:50:31 IST" name="clickBuyingCar" finished-at="2024-03-01T12:50:42 IST" duration-ms="10784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBuyingCar -->
+      </class> <!-- TestCases.UCarDetailsPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
